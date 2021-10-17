@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Ktor.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Ktor.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "bb71379b370c145c",
   "lastOpenFiles": [
+    "INDEX.md",
     "Zettelkasten/Ktor.md",
     "Zettelkasten/Zabbix.md",
     "Zettelkasten/Kotlin.md",
-    "INDEX.md",
     "Untitled.md",
     "Zettelkasten/Gradle.md",
     "Zettelkasten/Kotlin-DSL.md",
