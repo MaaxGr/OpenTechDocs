@@ -11,3 +11,10 @@ tasks.withType<Jar>() {
  from(configurations.runtimeClasspath.get().map { if (it.isDirectory) it else zipTree(it) })  
 }
 ```
+
+## Change working directory 
+```
+tasks.named<JavaExec>("run") {  
+    workingDir = File("${projectDir.absolutePath}/run")  
+}
+```

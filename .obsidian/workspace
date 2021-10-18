@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Zettelkasten/Gradle Kotlin-DSL.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/Gradle Kotlin-DSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "bb71379b370c145c",
   "lastOpenFiles": [
+    "Zettelkasten/Gradle Kotlin-DSL.md",
+    "Zettelkasten/Gradle.md",
+    "README.md",
     "INDEX.md",
     "Zettelkasten/Ktor.md",
     "Zettelkasten/Zabbix.md",
     "Zettelkasten/Kotlin.md",
     "Untitled.md",
-    "Zettelkasten/Gradle.md",
     "Zettelkasten/Kotlin-DSL.md",
-    "Index.md",
-    "Kotlin-DSL.md"
+    "Index.md"
   ]
 }
